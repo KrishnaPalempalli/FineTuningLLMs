@@ -1,798 +1,798 @@
-Input (Poem),Label (Limerick or Non-Limerick),Reasoning
+Input (Poem),Label (Limerick or Non-Limerick)
 "If the Limerick's cocktail you 'd quaff,
 Stir nonsense with wit, each a half,
 Add a dash of good fun,
 Drop in a pun-
-And then make a noise like a laugh.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And then make a noise like a laugh.",Limerick
 "A book with some verses, a bough,
 A wilderness, wine-jug, and Thou
 Would be Heaven to me;
 But what about Thee?
-The inducements seem not quite enow.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+The inducements seem not quite enow.",Limerick
 "A canner exceedingly canny,
 One morning remarked to his granny:
 ""A canner can can
 Anything that he can;
-But a canner can't can a can, can he?''",Limerick,"5 Lines, AABBA Rhyme Scheme"
+But a canner can't can a can, can he?''",Limerick
 "A clever young architect once
 Thought he'd do some original stunts;
 And he got so uplifted
 His buildings all shifted
-Their backs clear around to their fronts.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Their backs clear around to their fronts.",Limerick
 "A daughter of fair Ioway
 While at sport in the surges one day
 Swallowed some of the sea;
 ""And hereafter,"" said she,
-""I'll go out on the prairie to play.""",Limerick,"5 Lines, AABBA Rhyme Scheme"
+""I'll go out on the prairie to play.""",Limerick
 "A dreadful example 's before us,
 For there was a sweet thing in the chorus
 Whose feeling for wine
 Was so hearty and fine
-That her dude used to think she was porous.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+That her dude used to think she was porous.",Limerick
 "A gay young Bavarian Gustel,
 When he sees anything with a bustel,
 Puts a flower on his chest
 And does his best best
-To do what the Yankees call hustel.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+To do what the Yankees call hustel.",Limerick
 "A girl in Bad Axe, Michigan,
 Goes to motor whenever she can;
 And when she cannot
 She sits still in one spot
-And wishes that she were a man.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And wishes that she were a man.",Limerick
 "A girl of as graceful a mien
 As ever in Broadway was seen
 Stepped over the curb
 In a pleasant suburb,
-And her ankles were awfully lean.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And her ankles were awfully lean.",Limerick
 "A girl who went climbing a fence
 Was scratched getting hither from thence,
 And cried, ""Ah, sad lot
 That found me that spot!
-Why did I go thither from hence?''",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Why did I go thither from hence?''",Limerick
 "A husband in pretty Podunk
 Has a wife whom he loved a whole hunk;
 ""She has only one fault,""
 He would brag o'er his malt,
-""She will swear, at times, when she 's drunk.''",Limerick,"5 Lines, AABBA Rhyme Scheme"
+""She will swear, at times, when she 's drunk.''",Limerick
 "A lady with money to fry
 Found her church-seats once occupied by
 Some strangers. Said she,
 With complete dignitee,
-""Who are these occupewing my pie?''",Limerick,"5 Lines, AABBA Rhyme Scheme"
+""Who are these occupewing my pie?''",Limerick
 "A landlord whose boarders were cliquy
 And most of whose bedrooms were liquey
 Met every complaint
 With the answer, ""They ain't!''
-And thought them both friquy and chiquy.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And thought them both friquy and chiquy.",Limerick
 "A lively young girl of Kiushiu
 Fell over a potful of gliu;
 When she would have arose
 She was stuck on her clothes,
-And some had got into her shiu.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And some had got into her shiu.",Limerick
 "A maiden who worked with a bellows
 Had lovers; so she used to tellows;
 When asked what to do
 To keep her swains true,
-She simply said, ""Make 'em all jellows.'",Limerick,"5 Lines, AABBA Rhyme Scheme"
+She simply said, ""Make 'em all jellows.'",Limerick
 "A man from the North they call Billy
 Took a mouthful of good Texas chile.
 ""If that gives them a chill,
 Red Hades,'' sobbed Bill,
-""Will freeze the whole lot of 'em silly.'",Limerick,"5 Lines, AABBA Rhyme Scheme"
+""Will freeze the whole lot of 'em silly.'",Limerick
 "A man once took so much quinine
 That he grew far too thin to buisine,
 But a doctor from Chiswick
 Gave him ten kinds of phiswick
-And soon braced him up all suirine.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And soon braced him up all suirine.",Limerick
 "A man who is lacking in pride
 Goes to funerals far, near, and wide;
 When they ask, ""Who is dead?''
 He shakes his old head:
-''I dunno-I just come for the ride.""",Limerick,"5 Lines, AABBA Rhyme Scheme"
+''I dunno-I just come for the ride.""",Limerick
 "A man who lisped said to me: ""Wunth
 I wath told that there 'th no rhyme for 'month.'
 I heard him thay tho,
 But the chap did n't know
-I think he wath simply a dunth.''",Limerick,"5 Lines, AABBA Rhyme Scheme"
+I think he wath simply a dunth.''",Limerick
 "A man who lived up on the D
 Remarked that he never could C
 Any good reason Y
 A yellow cat's I
-So much larger at midnight should B.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+So much larger at midnight should B.",Limerick
 "A merchant in dear old Duquesne
 Once filled himself full of champesne;
 And they pumped on his head
 Till the old fellow sead,
-""I have water, I fear, on the bresne.""",Limerick,"5 Lines, AABBA Rhyme Scheme"
+""I have water, I fear, on the bresne.""",Limerick
 "A modest young girl named Louisa
 Would never allow one to squisa;
 One never must touch
 Or look at her mouch
-It was easy for one to displisa.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+It was easy for one to displisa.",Limerick
 "A musical miss of St. Joaquin
 Kept up such a terrible sqoaquin,
 Her folks set her afloat
 Near a fog-horn of note
-Just to keep the good neighbors from toaquin.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Just to keep the good neighbors from toaquin.",Limerick
 "An amorous M. A.
 Says that Cupid, the C. D.,
 Does n't cast for his health
 But is rolling in wealth;
-He's the John JacoB. H.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+He's the John JacoB. H.",Limerick
 "And there was dear little Miss Sweet—
 It's a story I hate to repeat
 But 't would give you a fright
 Almost any old night
-To see what that small girl could eat!",Limerick,"5 Lines, AABBA Rhyme Scheme"
+To see what that small girl could eat!",Limerick
 "An elderly fowl was once smitten
 With love for a tortoise-shell kitten.
 And the poultry she knew,
 Said, on finding it true,
-""It 's unhenly, as well as unfittin'.'",Limerick,"5 Lines, AABBA Rhyme Scheme"
+""It 's unhenly, as well as unfittin'.'",Limerick
 "An elderly spinster in Worcester
 Had got so that everything forcester,
 When an ancient admirer
 Came along to desire her;
-And now she can smile as she yorcester.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And now she can smile as she yorcester.",Limerick
 "A nice little girl they called Phoebe
 Used to think of herself as a Hebe;
 And the fellows she knew
 Used to think of her, too,
-Saying, ""If any girl can be, she be.""",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Saying, ""If any girl can be, she be.""",Limerick
 "An inhabitant of old Missouri
 Finds it more than he ought to endure.
 Hears from ocean to sea
 Not a thing but ""Show me!""
-It 's so true he gets madder than fury.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+It 's so true he gets madder than fury.",Limerick
 "An old man with little to do
 At home found himself in a stew;
 He was hit with a squash
 And the coming week's wash;
-Though his wants were exceedingly few.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Though his wants were exceedingly few.",Limerick
 "An opulent man named McLeod
 Who in dress was exceedingly preod,
 At half a block off
 Set the people to coff,
-And was used for dispersing a creod.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And was used for dispersing a creod.",Limerick
 "A patient young husband named Ayre
 Heard below his young wife's plaintive prayer:
 ""Slip on something quick
 And come down. I feel sick.""
-So he slipped on the very top stair.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+So he slipped on the very top stair.",Limerick
 "A party from Boston named Faneuil
 Went sailing, and sat on the ganeuil
 Of a sea-going yacht,
 But it yawed, and he thacht
-He preferred a dry lager beer taneuil.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+He preferred a dry lager beer taneuil.",Limerick
 "A plain but sincere Esquimaux
 Grew weary of ice and much snaux,
 So he put up a sail
 And went on with the gale
-Till he reached latitude fauxty-faux.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Till he reached latitude fauxty-faux.",Limerick
 "A pleasant young fellow named Seixas
 Was thought to be rather audeixas
 Till he saw a white post
 Which he took for a gost
-And ran away, screaming ""Good Greixas!''",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And ran away, screaming ""Good Greixas!''",Limerick
 "A pretty girl sat on a quay,
 Just as proper as proper could buay;
 When a bold grenadier
 Kissed her right on the ear.
-She thanked him, and went home to tuay.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+She thanked him, and went home to tuay.",Limerick
 "A priest, while incensing with myrrh,
 By chance dropped a spark on some fyrrh,
 And the odor that rose
 Made him stop up his nose-
-But beyond that he did not demyrrh.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+But beyond that he did not demyrrh.",Limerick
 "A professor both prim and pedantic
 Has behaved in a manner most frantic:
 He leaned on the rail
 In the teeth of a gale,
-And contributed to the Atlantic.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And contributed to the Atlantic.",Limerick
 "A rapid young prince of Siam
 Drank claret with roseberry jam.
 Next morning he said:
 ""I wish I were dead;
-I thought I was Omar Khayyam.""",Limerick,"5 Lines, AABBA Rhyme Scheme"
+I thought I was Omar Khayyam.""",Limerick
 "A sensible fellow named Hughes
 Had an awful attack of the blughes,
 So he ate lemon pies
 Of unusual sies
-And danced till he wore out his shughes.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And danced till he wore out his shughes.",Limerick
 "A serious chap in Newport
 Is convinced that safe driving 's his forte.
 A hen, several dogs,
 Six ducks, and some hogs
-He thinks is an average day's sport.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+He thinks is an average day's sport.",Limerick
 "A sorrowful fellow named Cholmondeley
 Was asked why he went about grolmondeley.
 Said he: ""How would you go
 If your name was spelled so?
-It would make even Heaven look bolmondeley!""",Limerick,"5 Lines, AABBA Rhyme Scheme"
+It would make even Heaven look bolmondeley!""",Limerick
 "A spinster who lived in Chihuahua
 Met a panther who started to claw her,
 In a minute the whelp
 Was howling for help.
-How could he know he 'd tackled a jawer?",Limerick,"5 Lines, AABBA Rhyme Scheme"
+How could he know he 'd tackled a jawer?",Limerick
 "A sporty and brisk Filipino
 Was firmly convinced he was keno,
 Till he bumped the real thing
 In a man from Sing-Sing -
-Now he's not even little casino.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Now he's not even little casino.",Limerick
 "A sweet bride was led up the aisle,
 Arrayed in the most killing staisle;
 When they asked if she'd be
 A true wife to he
-She promptly replied, ""I should smaisle!''",Limerick,"5 Lines, AABBA Rhyme Scheme"
+She promptly replied, ""I should smaisle!''",Limerick
 "A sweet thing who sailed from Land's End
 Swore she would hold out to the end;
 But the swell of the ocean
 Was filled with emotion
-And she did what she did n't intend.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And she did what she did n't intend.",Limerick
 "A taster of Chauteau Margaux
 Tried mixing the wine with some dough,
 Which so tasted of rye
 That he said with a sigh,
-""Oh, this is too utterly low!''",Limerick,"5 Lines, AABBA Rhyme Scheme"
+""Oh, this is too utterly low!''",Limerick
 "A tutor who tooted the flute
 Tried to teach two young tutors to toot.
 Said the two to the tutor:
 ""Is it harder to toot, or
-To tutor two tooters to toot?""",Limerick,"5 Lines, AABBA Rhyme Scheme"
+To tutor two tooters to toot?""",Limerick
 "A venturesome skipper named Brougham
 Once tried to sail round a simougham;
 He sailed and he sailed,
 But he utterly failed
-He is now up the heavenly flougham.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+He is now up the heavenly flougham.",Limerick
 "A wealthy young freshman at Caius
 Observed: ""See give 'em a braius!
 My silk hat, striped cravat,
 And éclat, and all that
-Make the girls say, 'Now ain't he the chaius!''",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Make the girls say, 'Now ain't he the chaius!''",Limerick
 "A wonderful Alderney heifer
 Was owned by a damsel named Eifer;
 Pa wanted to sell
 After being kicked well,
-But she answered, “O neifer, no, neifer!''",Limerick,"5 Lines, AABBA Rhyme Scheme"
+But she answered, “O neifer, no, neifer!''",Limerick
 "A woodchuck would chuck him some wood —
 He would chuck all the wood that he could;
 But the question arose:
 How much, d' you suppose?
-A woodchuck would chuck, if he should.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+A woodchuck would chuck, if he should.",Limerick
 "A young lady both prudent and prim
 Once exposed much too much of her limb
 Through bumping a tree
 Her chauffeur did not see,
-Which was most inadvertent of him.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Which was most inadvertent of him.",Limerick
 "A young lady in Madison Square
 Wore two birds and three rats in her hair,
 Till the cats lay in wait
 And pounced on her pate,
-And made a good dinner up there.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And made a good dinner up there.",Limerick
 "A young lady of Gramercy Park
 Was afraid to walk out in the dark;
 So she got her a beau
 It frightened her so;
-And now there is always a spark.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And now there is always a spark.",Limerick
 "A young lady who lived at Cape Cod
 Strung her lovers all up on a rod.
 Says she, ""How are you?”’
 They replied, ""Rather blue;
-This treatment indeed is quite odd.'",Limerick,"5 Lines, AABBA Rhyme Scheme"
+This treatment indeed is quite odd.'",Limerick
 "A young lady whose name was Provost
 Had been called on ten years by her bost;
 ""Dear Willie,'' she said,
 ""When shall we be wed?''
-But all Bill replied was ""Donost.""",Limerick,"5 Lines, AABBA Rhyme Scheme"
+But all Bill replied was ""Donost.""",Limerick
 "A young man and maiden in Trentham
 Went out in a car some one lent 'em;
 Their parents protested
 And wished them arrested;
-But I'd like to know what 's to prevent 'em!",Limerick,"5 Lines, AABBA Rhyme Scheme"
+But I'd like to know what 's to prevent 'em!",Limerick
 "A young married woman in Burr
 Was said to have kissed her chauffeur;
 But her husband, who heard
 Said that she was a bird,
-And he did not believe it of her.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And he did not believe it of her.",Limerick
 "A young married woman in Gloucester
 Had a husband who thought that he boucester;
 But when he 's away
 She always gets gay
-And will kiss any man who 'll accoucester.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And will kiss any man who 'll accoucester.",Limerick
 "A youth who had just been indicted
 Confessed that his troth had been plicted
 To a flaxen-haired maid
 Who his trust had betraid
-Till his life grew benicted and blicted.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Till his life grew benicted and blicted.",Limerick
 """But, chauffeur, we 're going the limit
 And a pond 's right ahead of us, dimmit!''
 But the chauffeur replied:
 ""You will please stay inside;
-We are going so fast we shall skim it.”",Limerick,"5 Lines, AABBA Rhyme Scheme"
+We are going so fast we shall skim it.”",Limerick
 """Copper,"" ""oak-leafy"" - novelist range
 Through the language for adjectives strange;
 Yet red-headed girls
 With cheeks like pink pearls
 No prettier are for the change.
-",Limerick,"5 Lines, AABBA Rhyme Scheme"
+",Limerick
 "De Lancey might make a good cook,
 But he can't tell encores from the hook;
 Of course, it's a fact
 That he never could act,
-And he won't learn the lines in the book.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And he won't learn the lines in the book.",Limerick
 """De Lancey, your part was a dream –
 Of artists you 're surely the cream;
 That bit was so fine
 That I wish it were mine
-And so on, for ream upon ream.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And so on, for ream upon ream.",Limerick
 """Go ask Father,"" the sweet maiden said.
 Now he knew that her father was dead,
 And he knew his career
 Had been what you call queer;
 So her meaning quite clearly he read.
-",Limerick,"5 Lines, AABBA Rhyme Scheme"
+",Limerick
 "He started out splendidly, but
 He went under to tighten a nut;
 After efforts titanic
 He looks the mechanic,
-But he feels like a platter-faced mutt.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+But he feels like a platter-faced mutt.",Limerick
 "He thought, as he walked down Pall Mall,
 That his passion he now would tall Balle,
 So he bought a bouquet,
 But all he could say
-Was, ""Sis, don't them posies small wall?''",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Was, ""Sis, don't them posies small wall?''",Limerick
 "He was in the artillery corps
 And was really a terrible borps;
 When he company kept
 The girl always slept,
-And sometimes she 'd actially snorps.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And sometimes she 'd actially snorps.",Limerick
 "However ambitions may vault
 On whiskers we must call a halt:
 Hare-lips are afflictions,
 Cross-eyes maledictions;
-But whiskers are all your own fault.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+But whiskers are all your own fault.",Limerick
 "H was an indigent Hen
 Who picked up a corn now and then;
 She had but one leg
 On which she could peg,
-And behind her left ear was a wen.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And behind her left ear was a wen.",Limerick
 "I'd rather have fingers than toes,
 I'd rather have ears than a nose,
 And, as for my hair,
 I 'm glad it's all there
-I'll be awfully sad when it goes.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+I'll be awfully sad when it goes.",Limerick
 "If you see a sweet thing that just suits,
 You and Fate cannot be in cahoots,
 When she picks up her skirt
 To keep out of the dirt,
-To learn that she wears rubber boots.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+To learn that she wears rubber boots.",Limerick
 "I held thirteen trumps once at whist
 And had not a trick on my list.
 My partner led ace,
 Which I trumped to his face
-And I think that the rest should be missed.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And I think that the rest should be missed.",Limerick
 "I 'm not so profoundly well read,
 But I know if the wheels in my head
 Were of radium instead
 Of pewter and lead
-I'd make Shakespeare feel glad he was dead!",Limerick,"5 Lines, AABBA Rhyme Scheme"
+I'd make Shakespeare feel glad he was dead!",Limerick
 "I 'm sure there 's no good reason why
 I can't see in my ear with my eye;
 I believe I can do it
 If I put my mind to it
-You never can tell till you try.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+You never can tell till you try.",Limerick
 "In cotillions they all kept her busy,
 She was such a good dancer, Miss Lusy;
 She'd spin like a top
 Till she 'd stop and then drop,
-For it made her so awfully dusy.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+For it made her so awfully dusy.",Limerick
 "In drinking, the old rule of three
 Will with dinner be found to agree:
 Drink somewhat before,
 While you eat, when it 's o'er;
-And so with your luncheon and tea.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And so with your luncheon and tea.",Limerick
 "In good looks I am not a star.
 There are others more lovely by far.
 But my face I don't mind it,
 Because I 'm behind it
-It 's the people in front that I jar.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+It 's the people in front that I jar.",Limerick
 "In New York is a place called Chaumont,
 Where the folks are so terribly slont
 That the weeds grow on high
 Till they tickle the sky,
-Before they 're grubbed out with a hont.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Before they 're grubbed out with a hont.",Limerick
 "In the old Spanish city of Cadiz
 Are some most entertaining young ladies;
 As all nice girls should
 They do nothing but good,
-And don't raise particular Hades.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And don't raise particular Hades.",Limerick
 "In the sweet town of Canajoharie
 Dwelt a maiden more solid than airy,
 She's a five-hundred-pounder,
 And when you get round her
-You'll find her, though fair, yet no fairy.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+You'll find her, though fair, yet no fairy.",Limerick
 "I sat by the side of the ocean
 Tormenting myself with this nocean:
 If a ship is n't taut,
 Can she sail as she aut
-With the wind and the waves in commocean?",Limerick,"5 Lines, AABBA Rhyme Scheme"
+With the wind and the waves in commocean?",Limerick
 "It is true that the best I could get
 Has been Little Eva, as yet;
 But in figure and art
 You must feel that my part
-Is Ophelia - or else Juliet.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Is Ophelia - or else Juliet.",Limerick
 "I would rather be merry than sup:
 There's the dignified dame who 's tied up
 To a busy bull-terrier.
 Though I think it is merrier
-When the large lady leads the small pup.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+When the large lady leads the small pup.",Limerick
 "Last week she went out on her wheel.
 To-day it's an automobile.
 To-morrow you'll stare
 Straight up in the air,
-And all you will see is her keel.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And all you will see is her keel.",Limerick
 "Miss Genevieve Darling is winsome,
 But she writes things that make her friends grin some;
 She sent verses a score
 To each known editor,
-Who handed her lemons - and then some!",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Who handed her lemons - and then some!",Limerick
 "Mrs. Boomer goes frequently shopping;
 She has all the clerks up and hopping.
 When they ask, ""Will you buy?”
 She answers: ""But why?
-I can shop, when I don't, without stopping.”",Limerick,"5 Lines, AABBA Rhyme Scheme"
+I can shop, when I don't, without stopping.”",Limerick
 "Mrs. Reginald Montagu-Plumps
 Is so proud that it sticks out in lumps;
 She can daily be seen
 In her new limousine
-She could n't be sweller with mumps.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+She could n't be sweller with mumps.",Limerick
 "No; Maudie don't come from the city
 And her own people think she's a pity;
 She has n't no dash
 And her mouth is a gash;
-But her new hair is really quite pretty.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+But her new hair is really quite pretty.",Limerick
 "Now there were two brothers, the Mohuns,
 Who could whistle most beautiful tohuns;
 But they wore out their pharynx,
 Their tonsils, and larynx,
-And now they both play on bassohuns.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And now they both play on bassohuns.",Limerick
 "Of a statue of great Aphrodite,
 Whose nudity shocked all the mighty,
 What would they have said
 Had she worn, instead,
 A sweet little lacy, frilled nightie?
-",Limerick,"5 Lines, AABBA Rhyme Scheme"
+",Limerick
 "One never can do as one wishes
 When one has to wash one's own dishes
 And make one's own clothes
 And darn one's own hose
-Though one's pies may be simply delicious.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Though one's pies may be simply delicious.",Limerick
 "Our domestic was called Mary Ann,
 She came from the County Cavan;
 To lessen her toil
 She lit fires with the oil-
-Now we miss her, and also the can.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Now we miss her, and also the can.",Limerick
 "Prevention is better than cure-
 Of a play you had better make sure;
 Learn the simplest of rules
 In the more modern schools:
-To the impure 'most everything 's pure.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+To the impure 'most everything 's pure.",Limerick
 "Said the gouty old Earl of Buccleuch,
 Who wore a large Number Ten scheuch,
 ""'T ain't pretty, I know,
 But behold my big tow!
-What else can a poor fellow deuch?""",Limerick,"5 Lines, AABBA Rhyme Scheme"
+What else can a poor fellow deuch?""",Limerick
 "Said the doctor to young Miss Bidalia:
 ""I'm sure I don't know what can ail you;
 But if you should eat
 Some pounds less of sweet,
-You would n't think life is a failure.""",Limerick,"5 Lines, AABBA Rhyme Scheme"
+You would n't think life is a failure.""",Limerick
 "Said the Reverend Jabez McCotton,
 ""The play 's of the devil begotten.”
 Said young Mr. Bright:
 ""The man is quite right;
-To the pure almost everything 's rotten.''",Limerick,"5 Lines, AABBA Rhyme Scheme"
+To the pure almost everything 's rotten.''",Limerick
 "Said Thomas to Richard, ""O come
 To my chambers and have some good rum!''
 You'd have known Richard meant
 To give his consent
-If you'd happened to be deaf and dumb.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+If you'd happened to be deaf and dumb.",Limerick
 "Saw an epitaph - don't know who writ it-
 On a tombstone intended to fit it;
 ""Just Sleeping,"" it read.
 When I saw it I said,
-""Gee whizz, when I 'm dead I 'll admit it!''",Limerick,"5 Lines, AABBA Rhyme Scheme"
+""Gee whizz, when I 'm dead I 'll admit it!''",Limerick
 "The bystander stood, and he cursed
 All the motor-cars, down from the first.
 Then he went out to drive,
 But his habits survive,
-And he curses the bystander worst.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And he curses the bystander worst.",Limerick
 "The dachshund seems not to belong-
 Born under a bureau, all wrong.
 You'll see him go by,
 Just a half a dog high,
-And a dog and a half or so long.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And a dog and a half or so long.",Limerick
 "The Heaven that saves us alarm
 Keeps the gum-chewing girl from much harm;
 For she can't, on her life,
 When she eats with her knife-
-And it 's lucky-it might jar her charm.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And it 's lucky-it might jar her charm.",Limerick
 "Their passion for touring 's ingrained,
 As their friends have quite often maintained.
 Though they 've shaved off their eyebrows
 To look more like high-brows,
-They have never gone in when it rained.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+They have never gone in when it rained.",Limerick
 "Them athletes they sure are the goo;
 They done me the best they could do.
 It took just a minute
 Last week when they win it
-I would n't of went if I 'd knew.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+I would n't of went if I 'd knew.",Limerick
 "The men near Lake Winnipiseagee
 Don't resemble the men in Milweagee;
 They eat with their knives
 And lead unpleasant lives
-And have manners decidedly geagee.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And have manners decidedly geagee.",Limerick
 "There was a young poet in Wemyss,
 Who cried, ""O, how awful it seems,
 When asleep late at night,
 Lovely poetry to wright,
-And awakening find it's but dreymss!""",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And awakening find it's but dreymss!""",Limerick
 "Sir Thomas and Kitty sat out on the porch,
 In the light of the silvery moon,
 And he breathed forth a prayer,
 To this being most fair,
-As he asked for her hand as a boon.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+As he asked for her hand as a boon.",Limerick
 """Oh! heart of my heart! oh! beauty most rare,
 I would give up my life to save thine.""
 ""That is nothing,"" said she,
 ""The point is with me,
-Are you willing to give up all nine?""",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Are you willing to give up all nine?""",Limerick
 "There was a young chap named Cholmon-
 deley,
 Who always at dinner sat dolmondeley.
 His fair partner said,
 As he crumbled his bread,
 ""Dear me! you behave very rholmon-
-deley!""",Limerick,"5 Lines, AABBA Rhyme Scheme"
+deley!""",Limerick
 "There was a young poet in Wemyss,
 Who cried, ""O, how awful it seems,
 When asleep late at night,
-And awakening find it's but dreymss!""",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+And awakening find it's but dreymss!""",Non-Limerick
 "Sir Thomas and Kitty sat out on the porch,
 In the light of the silvery chimpanzee,
 And he breathed forth a prayer,
 To this being most fair,
-As he asked for her hand as a boon.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+As he asked for her hand as a boon.",Non-Limerick
 """Oh! heart of my heart! oh! beauty most rare,
 I would give up my life to save thine.""
 ""That is nothing,"" said she,
-",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+",Non-Limerick
 "There was a young chap named Cholmon-
 deley,
 Who always at dinner sat dolmondeley.
-",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+",Non-Limerick
 "A boy at Sault Ste. Marie,
 Said, ""To spell, I will not agree,
 Till they learn to spell 'Soo'
 Without any 'u,'
-Or an 'a' or an 'l' or a 't.'""",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Or an 'a' or an 'l' or a 't.'""",Limerick
 "There was a young man in Ann Arbor,
 Who studied to be a fine barber;
 He cut quite a dash,
 And used up his cash,
-Then shaved all his friends at Ann Arbor.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Then shaved all his friends at Ann Arbor.",Limerick
 "There was a young man in Ann Arbor,
 Who studied to be a fine barber;
 He cut quite a dash,
 And used up his stash,
-Then shaved all his friends at Ann Arbor.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Then shaved all his friends at Ann Arbor.",Limerick
 "She was wooed by a handsome young Dr.,
 Who one day in his arms tightly lr.;
 But straightway he swore
 He would do so no more,
-Which the same, it was plain, greatly shr.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Which the same, it was plain, greatly shr.",Limerick
 "A boy at Sault Ste. Marie,
 Said, ""To spell, I will not agree,
 Till they learn to spell 'Soo'
 Without any 'u,'
-",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+",Non-Limerick
 "There was a young man in Ann Arbor,
 Who studied to be a fine barber;
 He cut quite a goffy ahh bullshit,
 And used up his cash,
-Then shaved all his friends at Ann Arbor.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+Then shaved all his friends at Ann Arbor.",Non-Limerick
 "There was a young man in Ann Arbor,
 Who studied to be a fine barber;
 He cut quite a dash,
-",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+",Non-Limerick
 "She was wooed by a handsome young Dr.,
 Who one day in his arms tightly lr.;
-",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+",Non-Limerick
 "A young girl whose last name was Mack,
 Went to church in a new sealskin sack;
 In donating her mite
 She squeezed it so tight
-That her kid glove cracked right 'cross the back.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+That her kid glove cracked right 'cross the back.",Limerick
 "A little old maid at Sag Harbor,
 Takes her meals in the shade of an arbor,
 With her forty pet cats,
 And her French poodle, ""Rats,""
-Which is shaved once a week by a barber.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Which is shaved once a week by a barber.",Limerick
 "There was a young lady named Maud,
 Who at meals was a terrible fraud.
 She never was able
 To eat at the table,
-But out in the pantry—Oh, Lord!",Limerick,"5 Lines, AABBA Rhyme Scheme"
+But out in the pantry—Oh, Lord!",Limerick
 "The devil made the wind to blow
 The ladies' skirts knee high,
 The Lord was just,
 He raised the dust
 To blind the bad man's eye.
 
-",Limerick,"5 Lines, AABBA Rhyme Scheme"
+",Limerick
 "A young girl whose last name was Mack,
 Went to church in a new sealskin sack;
 In donating her mite
 She squeezed it so tight
-",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+",Non-Limerick
 "A little old maid at Sag Harbor,
 Takes her meals in the shade of an arbor,
 With her forty pet cats,
 And her French poodle, ""Rats,""
-Which is shaved once a week by a freaky-monkey.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+Which is shaved once a week by a freaky-monkey.",Non-Limerick
 "There was a young lady named Maud,
 Who at meals was a terrible fraud.
 She never was able
-",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+",Non-Limerick
 "The devil made the wind to blow
 The ladies' skirts knee high,
 
 
-",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+",Non-Limerick
 "There was a young girl from the Hub,
 Who had heard of Diogenes' tub;
 To the kitchen she hied her,
 Where her ma quickly spied her,
-And oh, how she made that girl scrub.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And oh, how she made that girl scrub.",Limerick
 "In a spasm to be thought most exquisite,
 A maiden named Lee spelled it Lis.
 ""It's good French,"" said she,
 ""Just see Fleur-de-lis""——
-And now she is known as plain Liz.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And now she is known as plain Liz.",Limerick
 "I know a sweet girl who's called Maud,
 Of her papa I'm very much awed.
 I'd ask his consent,
 But I think if I went
-He'd kick till I hollered ""Oh, Lawd!""",Limerick,"5 Lines, AABBA Rhyme Scheme"
+He'd kick till I hollered ""Oh, Lawd!""",Limerick
 "A stalwart collection of Sioux,
 Being hungry and having the blioux,
 To Washington went,
 Where a few days they spent
-In talking and hearing the nioux.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+In talking and hearing the nioux.",Limerick
 "There was a young girl from the Hub,
 To the kitchen she hied her,
 Where her ma quickly spied her,
-And oh, how she made that girl scrub.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+And oh, how she made that girl scrub.",Non-Limerick
 "In a spasm to be thought most exquisite,
 A maiden named Lee spelled it Lis.
 ""It's good French,"" said she,
 ""Just see Fleur-de-lis""——
-And now she is known as plain donald trump.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+And now she is known as plain donald trump.",Non-Limerick
 "I know a sweet girl who's called Maud,
 Of her papa I'm very much awed.
 I'd ask his consent,
-",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+",Non-Limerick
 "A stalwart collection of Sioux,
 Being hungry and having the blioux,
-",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+",Non-Limerick
 "A war correspondent named Guido
 Was struck by a flying torpedo;
 A Red Cross brigade
 Which came to his aid
-Found only a sleeveless Tuxedo!",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Found only a sleeveless Tuxedo!",Limerick
 "The people who live in Shanghai
 Seem to take great delight when they lai,
 But there isn't much doubt
 That our fishers for troubt,
-With these folks, in their falsehoods, can vai!",Limerick,"5 Lines, AABBA Rhyme Scheme"
+With these folks, in their falsehoods, can vai!",Limerick
 "There lived in the village of Beaulieu
 A couple who'd gone there but neaulieu;
 Their child was named Vaughan
 As soon as 'twas baughan,
-But, alas, he proved treaulieu unreaulieu.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+But, alas, he proved treaulieu unreaulieu.",Limerick
 "There was an old fellow in Worcester,
 Who owned quite a famous game rorcester,
 But when it grew old
 It had to be sold,
-It could not fight as it urcester.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+It could not fight as it urcester.",Limerick
 "A war correspondent named Guido
 Was struck by a flying torpedo;
 A Red Cross brigade
-Which came to his aid",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+Which came to his aid",Non-Limerick
 "The people who live in Shanghai
 Seem to take great delight when they lai,
 But there isn't much doubt
 That our fishers for big bootey,
-With these folks, in their falsehoods, can vai!",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+With these folks, in their falsehoods, can vai!",Non-Limerick
 "There lived in the village of Beaulieu
 A couple who'd gone there but neaulieu;
 Their child was named Vaughan
-",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+",Non-Limerick
 "There was an old fellow in Worcester,
 Who owned quite a famous game rorcester,
-",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+",Non-Limerick
 "Covers pulled up.
 Love-worn rabbit in my arms. 
-My bed paradise.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+My bed paradise.",Non-Limerick
 "Supporting our love,
 bed is the sacred alter 
-where the self is lost.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+where the self is lost.",Non-Limerick
 "Two morning surprises, 
 squealing children fill our bed. 
-A tangle of love.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+A tangle of love.",Non-Limerick
 "A baby's first steps. 
 Learning to balance a bike. 
-Rewards of courage.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+Rewards of courage.",Non-Limerick
 "Leaping off the edge, 
 birds fall freely from the sky. 
-Fearless wings in flight. ",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+Fearless wings in flight. ",Non-Limerick
 "Unnoticed each day, 
 we show courage by acting 
-in the face of fear.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+in the face of fear.",Non-Limerick
 "A surprise package. 
 Death is a kiss of white light, 
-not something to dread.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+not something to dread.",Non-Limerick
 "We turn our eyes away from 
 death, afraid to know. 
-Look and find the hidden door!",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+Look and find the hidden door!",Non-Limerick
 "No need to worry. 
 Death is a journey of love, 
-not what we all fear.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+not what we all fear.",Non-Limerick
 "Movies of the night, 
 dreams open us to new worlds 
-of dread and delight.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+of dread and delight.",Non-Limerick
 "Dark, mysterious, 
 holding a promise of light, 
-shadow dreams appear.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+shadow dreams appear.",Non-Limerick
 "Frightening images-- 
 weaknesses, betrayal, death-- 
-painted on the night.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+painted on the night.",Non-Limerick
 "In silence, alone, 
 I feel my heart and wonder 
-at the miracle.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+at the miracle.",Non-Limerick
 "Hate cannot exist 
 within the same moment 
-as a beautiful song.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+as a beautiful song.",Non-Limerick
 "We can't resist it. 
 When we laugh at life's folly,
-our heart is singing.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+our heart is singing.",Non-Limerick
 "A subtle gesture, 
 love touching me in advance 
-of her tender kiss. ",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+of her tender kiss. ",Non-Limerick
 "Their hands touch gently. 
 Her cheek still warm from his kiss. 
-White rose in full bloom.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+White rose in full bloom.",Non-Limerick
 "Anniversary. 
 Deeper and more tender love 
-with advancing age.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+with advancing age.",Non-Limerick
 "Stark, the branches wait, 
 not dead, but in quiet song. 
-Blossom's kiss to come.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+Blossom's kiss to come.",Non-Limerick
 "A simple blade of grass. 
 Without fanfare, 
-it quietly sustains life.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+it quietly sustains life.",Non-Limerick
 "Moving grass gently 
 caressed by the light of 
-heavenly star fire.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+heavenly star fire.",Non-Limerick
 "When I breathe, God breathes. 
 When I move, God is moving. 
-We dance together.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+We dance together.",Non-Limerick
 "Bow down before the 
 shrine of each moment, for life 
-is God singing us.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+is God singing us.",Non-Limerick
 "God sees as we see, 
 quietly moves as we move. 
-No ""I"" and no ""God.""",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+No ""I"" and no ""God.""",Non-Limerick
 "Do not go gentle into that good night,
 Old age should burn and rave at close of day;
 Rage, rage against the dying of the light.
@@ -816,7 +816,7 @@ Rage, rage against the dying of the light.
 And you, my father, there on the sad height,
 Curse, bless, me now with your fierce tears, I pray.
 Do not go gentle into that good night.
-Rage, rage against the dying of the light.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+Rage, rage against the dying of the light.",Non-Limerick
 "They are all gone away,
    The House is shut and still,
 There is nothing more to say.
@@ -840,7 +840,7 @@ There is nothing more to say.
 There is ruin and decay
    In the House on the Hill:
 They are all gone away,
-There is nothing more to say.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+There is nothing more to say.",Non-Limerick
 "I shut my eyes and all the world drops dead;
 I lift my lids and all is born again.
 (I think I made you up inside my head.)
@@ -864,7 +864,7 @@ But I grow old and I forget your name.
 I should have loved a thunderbird instead;
 At least when spring comes they roar back again.
 I shut my eyes and all the world drops dead.
-(I think I made you up inside my head.)",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+(I think I made you up inside my head.)",Non-Limerick
 "Hold my hand in yours; we’ll make it through.
 If life becomes too hard to comprehend,
 for no one understands me like you do.
@@ -888,7 +888,7 @@ for no one understands me like you do.
 Though oft times life presents a horrid view,
 Together we can face the bitter end.
 Hold my hand in yours; we’ll make it through,
-for no one understands me like you do.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+for no one understands me like you do.",Non-Limerick
 "Humans, some say, aren’t much more than an ape—
 A reasoning beast, quintessence of dust.
 Others believe we’re of angelic shape.
@@ -912,7 +912,7 @@ Others believe we’re of angelic shape.
 Though such a question makes all skeptics jape,
 How could our good rise from matter unjust?
 Humans, some say, aren’t much more than an ape;
-I must believe we’re of angelic shape.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+I must believe we’re of angelic shape.",Non-Limerick
 "Tell me why the patient is still crying.
 What pharmaceuticals? pain pills? barbiturates?
 What pretties has the doctor been supplying?
@@ -931,7 +931,7 @@ What pretties has the doctor been supplying?
 Tell me what you dole out to the dying.
 What paradise or punishment awaits?
 Tell me why. The patient is still crying.
-What pretties has the doctor been supplying?",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+What pretties has the doctor been supplying?",Non-Limerick
 "Free me from wars? Make my debut?
 Oh, Mr. Handsome G.I. Joe—
 your face and a blanket won’t do.
@@ -955,7 +955,7 @@ your face scratchy, your blanket too.
 Beautiful women wait back home for you,
 nothing to ask for, nothing to owe—
 free of wars, making debuts.
-Your blanket, my face—dead, white, and blue.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+Your blanket, my face—dead, white, and blue.",Non-Limerick
 "Our paths vanish; our footsteps fade
 From forest glades, from wave-damp sands
 From sunlight’s dazzle and twilight’s shade.
@@ -979,7 +979,7 @@ Our paths vanish; our footsteps fade
 Fingers stiffen; our hands grow cold;
 Voices soften from steel to gold.
 Our paths vanish; our footsteps fade
-From sunlight’s dazzle to twilight’s shade.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+From sunlight’s dazzle to twilight’s shade.",Non-Limerick
 "What reckless rage has armed thy tiger’s tongue,
 On sweet and simple souls to spew thy spite?
 What siren should such poisoned songs have sung?
@@ -993,7 +993,7 @@ So lewdly on these lasses to have laid,
 And if thou please, appoint how, where, and when,
 And I shall make thee, Beast, not to bide beid,
 That neither are they sik as thou has said,
-Nor am I by these rascal railings made.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+Nor am I by these rascal railings made.",Non-Limerick
 "And when I do descrive the Ocean’s force,
 Grant syne, O Neptune, god of seas profound,
 That readers think on leeboard and on dworce,
@@ -1007,7 +1007,7 @@ Now climbs and skips to top of raging seas,
 Now down to hell, when shipmen may not stand,
 But lifts their hands to pray thee for some ease;
 Syne let them think thy trident doth it calm,
-Which makes it clear and smooth like glass or alm.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+Which makes it clear and smooth like glass or alm.",Non-Limerick
 "Although this poisoning pest, black, red, and pale,
 Disperseth some and others als infect,
 And both the cities and the land assail,
@@ -1021,7 +1021,7 @@ And boldened so I fear no pest nor boach
 Which by my senses may procure my death,
 For so love’s venom does on me encroach
 As no infection can infect my corse,
-For where that pest is, poison tynes her force.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+For where that pest is, poison tynes her force.",Non-Limerick
 "In pride of youth, when as unbridled lust
 Did force me forth, my follies to bewray,
 I challengèd as patrimony just
@@ -1035,7 +1035,7 @@ And so perforce to father I retire,
 To whom I prostrate kneel—unworthy wight—
 To name of son not daring to aspire;
 Receive me yet, sweet Saviour, of Thy grace,
-Poor penitent, into a servant’s place.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+Poor penitent, into a servant’s place.",Non-Limerick
 "And yet I cannot reprehend the flight,
 Or blame th’ attempt presuming so to soar;
 The mounting venture for a high delight
@@ -1049,7 +1049,7 @@ The mean observer (who base safety keeps)
 Lives without honor, dies without a name,
 And in eternal darkness ever sleeps—
 And therefore, Delia, ’tis to me no blot
-To have attempted, though attained thee not.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+To have attempted, though attained thee not.",Non-Limerick
 "Wisely, O Clerke, enjoy the present hour,
 The present hour is all the time we have;
 High God the rest has placed beyond our power,
@@ -1063,7 +1063,7 @@ These help us Ill to bear, or teach to shun.
 Let friendship cheer us with her generous flame,
 Friendship, the sum of all our joys in one.
 So shall we live each moment fate has given;
-How long or short, let us resign to heaven.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+How long or short, let us resign to heaven.",Non-Limerick
 "Lo, here the place for contemplation made,
 For sacred musing, and for solemn song!
 Hence, ye profane, nor violate the shade.
@@ -1077,7 +1077,7 @@ Ev’n such as angels prompt in golden dreams
 To holy hermit, high in raptures blest,
 His bosom burning with celestial beams.
 Ne less the raptures of my summer day,
-If Spenser deign with me to moralize the lay.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+If Spenser deign with me to moralize the lay.",Non-Limerick
 "Idol of jovial Ireland’s social train,
 Parent of wit, and nurse of smiling glee,
 Killer of care, and banisher of pain,
@@ -1091,7 +1091,7 @@ Sparkling with rapture roll the eyes of Fun,
 Misfortune speedily forgets her woes,
 And Toil the task that he has left undone.
 Let Envy shoot her venomed shafts in vain—
-Whiskey, triumphant Whiskey, still shall reign!",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+Whiskey, triumphant Whiskey, still shall reign!",Non-Limerick
 "It is not death, that some time in a sigh
 This eloquent breath shall take its speechless flight;
 That some time these bright stars, that now reply
@@ -1105,7 +1105,7 @@ That pious thoughts, which visit at new graves
 In tender pilgrimage, will cease to go
 So duly and so oft—and when grass waves
 Over the passed-away, there may be then
-No resurrection in the minds of men.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+No resurrection in the minds of men.",Non-Limerick
 "They talk of short-lived pleasure—be it so—
 Pain dies as quickly: stern, hard-featured pain
 Expires, and lets her weary prisoner go.
@@ -1119,533 +1119,533 @@ Are fruits of innocence and blessedness;
 Thus joy, o’erborne and bound, doth still release
 His young limbs from the chains that round him press.
 Weep not that the world changes—did it keep
-A stable, changeless state, ’twere cause indeed to weep.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+A stable, changeless state, ’twere cause indeed to weep.",Non-Limerick
 "The light of a candle
 
 Is transferred to another candle —
 
-spring twilight.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+spring twilight.",Non-Limerick
 "A piece of green pepper
 
   fell
 
 off the wooden salad bowl:
 
-  so what?",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+  so what?",Non-Limerick
 "This world of dew
 
 is a world of dew,
 
-and yet, and yet.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+and yet, and yet.",Non-Limerick
 "I write, erase, rewrite
 
 Erase again, and then
 
-A poppy blooms.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+A poppy blooms.",Non-Limerick
 "In pale moonlight
 
 the wisteria’s scent
 
 comes from far away.
 
-",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+",Non-Limerick
 "The earth shakes
 
 just enough
 
-to remind us. ",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+to remind us. ",Non-Limerick
 "The apparition of these faces 
 
 in the crowd;
 
-Petals on a wet, black bough.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+Petals on a wet, black bough.",Non-Limerick
 "love between us is
 
 speech and breath. loving you is
 
 a long river running.
-",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+",Non-Limerick
 "O snail
 
 Climb Mount Fuji,
 
-But slowly, slowly!",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+But slowly, slowly!",Non-Limerick
 "I want to sleep
 
 Swat the flies
 
-Softly, please.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+Softly, please.",Non-Limerick
 "Delightful display
 
 Snowdrops bow their pure white heads
 
-To the sun's glory.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+To the sun's glory.",Non-Limerick
 "snowmelt— 
 
 on the banks of the torrent 
 
-small flowers  ",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+small flowers  ",Non-Limerick
 "meteor shower
 
 a gentle wave
 
-wets our sandals",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+wets our sandals",Non-Limerick
 "The west wind whispered,
 
 And touched the eyelids of spring:                                                                         
 
 Her eyes, Primroses.
-",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+",Non-Limerick
 "I kill an ant
 
 and realize my three children
 
-have been watching.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+have been watching.",Non-Limerick
 "Over the wintry
 
 forest, winds howl in rage
 
 with no leaves to blow.
-",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+",Non-Limerick
 "cherry blossoms
 
 fall! fall!
 
-enough to fill my belly",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+enough to fill my belly",Non-Limerick
 "The lamp once out
 
 Cool stars enter
 
-The window frame.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+The window frame.",Non-Limerick
 "The snow of yesterday
 
 That fell like cherry blossoms
 
-Is water once again",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+Is water once again",Non-Limerick
 "First autumn morning
 
 the mirror I stare into
 
-shows my father's face.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+shows my father's face.",Non-Limerick
 "Just friends:
 
 he watches my gauze dress
 
-blowing on the line.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+blowing on the line.",Non-Limerick
 "What is it but a dream?
 
 The blooming as well
 
-Lasts only seven cycles",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+Lasts only seven cycles",Non-Limerick
 "Even in Kyoto,
 
 Hearing the cuckoo’s cry,
 
-I long for Kyoto",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+I long for Kyoto",Non-Limerick
 "The crow has flown away:
 
 Swaying in the evening sun,
 
-A leafless tree",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+A leafless tree",Non-Limerick
 "The neighing horses
 
 are causing echoing neighs
 
 in neighboring barns
-",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+",Non-Limerick
 "The childless woman,
 
 how tenderly she caresses
 
-homeless dolls …",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+homeless dolls …",Non-Limerick
 "A raindrop from
 
 the roof
 
 Fell in my beer
-",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+",Non-Limerick
 "I was in that fire,
 
 The room was dark and somber.
 
-I sleep peacefully. ",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+I sleep peacefully. ",Non-Limerick
 "Plum flower temple:
 
 Voices rise
 
-From the foothills",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+From the foothills",Non-Limerick
 "The first soft snow:
 
 leaves of the awed jonquil
 
-bow low",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+bow low",Non-Limerick
 "A caterpillar,
 
 this deep in fall –
 
-still not a butterfly.",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+still not a butterfly.",Non-Limerick
 "If the Limerick's cocktail you 'd quaff,
 Stir nonsense with wit, each a quarter,
 Add a dash of good fun,
 Drop in a pun-
-And then make a noise like a laugh.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+And then make a noise like a laugh.",Non-Limerick
 "A book with some verses, a bough,
 A wilderness, wine-jug, and you
 Would be Heaven to me;
 But what about Thee?
-The inducements seem not quite enow.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+The inducements seem not quite enow.",Non-Limerick
 "A canner exceedingly canny,
 One morning remarked to his dad:
 ""A canner can can
 Anything that he can;
-But a canner can't can a can, can he?''",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+But a canner can't can a can, can he?''",Non-Limerick
 "A clever young architect once
 Thought he'd do some original feats;
 And he got so uplifted
 His buildings all shifted
-Their backs clear around to their fronts.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+Their backs clear around to their fronts.",Non-Limerick
 "A daughter of fair Ioway
 While at sport in the surges one night
 Swallowed some of the sea;
 ""And hereafter,"" said she,
-""I'll go out on the prairie to play.""",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+""I'll go out on the prairie to play.""",Non-Limerick
 "A dreadful example 's before us,
 For there was a sweet thing in the choir
 Whose feeling for wine
 Was so hearty and fine
-That her dude used to think she was porous.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+That her dude used to think she was porous.",Non-Limerick
 "A gay young Bavarian Gustel,
 When he sees anything with a charm,
 Puts a flower on his chest
 And does his best best
-To do what the Yankees call hustel.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+To do what the Yankees call hustel.",Non-Limerick
 "A girl in Bad Axe, Michigan,
 Goes to motor whenever she could;
 And when she cannot
 She sits still in one spot
-And wishes that she were a man.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+And wishes that she were a man.",Non-Limerick
 "A girl of as graceful a mien
 As ever was seen in Broadway
 Stepped over the curb
 In a pleasant suburb,
-And her ankles were awfully lean.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+And her ankles were awfully lean.",Non-Limerick
 "A girl who went climbing a fence
 Was scratched getting hither from there,
 And cried, ""Ah, sad lot
 That found me that spot!
-Why did I go thither from hence?''",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+Why did I go thither from hence?''",Non-Limerick
 "A husband in pretty Podunk
 Has a wife whom he loved a whole hunk;
 ""She has only one problem,""
 He would brag o'er his malt,
-""She will swear, at times, when she 's drunk.''",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+""She will swear, at times, when she 's drunk.''",Non-Limerick
 "A lady with money to fry
 Found her church-seats once occupied by
 Some strangers. She said,
 With complete dignitee,
-""Who are these occupewing my pie?''",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+""Who are these occupewing my pie?''",Non-Limerick
 "A landlord whose boarders were cliquy
 And most of whose bedrooms were liquey
 Met every problem
 With the answer, ""They ain't!''
-And thought them both friquy and chiquy.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+And thought them both friquy and chiquy.",Non-Limerick
 "A lively young girl of Kiushiu
 Fell over a potful of gliu;
 When she got up
 She was stuck on her clothes,
-And some had got into her shiu.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+And some had got into her shiu.",Non-Limerick
 "A maiden who worked with a bellows
 Had lovers; so she used to tellows;
 When asked what to be done
 To keep her swains true,
-She simply said, ""Make 'em all jellows.'",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+She simply said, ""Make 'em all jellows.'",Non-Limerick
 "A man from the North they call Billy
 Took a mouthful of good Texas chile.
 ""If that gives them a shake,
 Red Hades,'' sobbed Bill,
-""Will freeze the whole lot of 'em silly.'",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+""Will freeze the whole lot of 'em silly.'",Non-Limerick
 "A man once took so much quinine
 That he grew far too thin to buisine,
 But a doctor from Canada
 Gave him ten kinds of phiswick
-And soon braced him up all suirine.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+And soon braced him up all suirine.",Non-Limerick
 "A man who is lacking in pride
 Goes to funerals far, near, and wide;
 When they ask, ""Who is gone?''
 He shakes his old head:
-''I dunno-I just come for the ride.""",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+''I dunno-I just come for the ride.""",Non-Limerick
 "A man who lisped said to me: ""Wunth
 I wath told that there 'th no rhyme for 'month.'
 I heard him thay yes,
 But the chap did n't know
-I think he wath simply a dunth.''",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+I think he wath simply a dunth.''",Non-Limerick
 "A man who lived up on the D
 Remarked that he never could C
 Any good reason U
 A yellow cat's I
-So much larger at midnight should B.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+So much larger at midnight should B.",Non-Limerick
 "A merchant in dear old Duquesne
 Once filled himself full of champesne;
 And they pumped on his head
 Till the old fellow sead,
-""I have water and I fear a lot""",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+""I have water and I fear a lot""",Non-Limerick
 "A modest young girl named Louisa
 Would never allow one to squisa;
 One never must touch
 Or look at her mouch
-It was easy for one to displeased.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+It was easy for one to displeased.",Non-Limerick
 "A musical miss of St. Joaquin
 Kept up such a terrible sqoaquin,
 Her folks set her afloat
 Near a fog-horn of note
-Just to keep the good neighbors from a talk.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+Just to keep the good neighbors from a talk.",Non-Limerick
 "An amorous M. A.
 Says that Cupid, the C. D.,
 Does n't cast for his health
 But is rolling in wealth;
-He's the John Jacob.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+He's the John Jacob.",Non-Limerick
 "And there was dear little Miss Sweet—
 It's a story I hate to repeat
 But 't would give you a fright
 Almost any old night
-To see what that small girl could do!",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+To see what that small girl could do!",Non-Limerick
 "An elderly fowl was once smitten
 With love for a tortoise-shell kitten.
 And the poultry she knew,
 Said, on finding it true,
-""It 's really not health at all'.'",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+""It 's really not health at all'.'",Non-Limerick
 "An elderly spinster in Worcester
 Had got so that everything forcester,
 When an ancient admirer
 Came along to desire her;
-And now she can smile.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+And now she can smile.",Non-Limerick
 "A nice little girl they called Phoebe
 Used to think of herself as a Hebe;
 And the fellows she knew
 Used to think of her, too,
-Saying, ""If any girl can be, she can.""",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+Saying, ""If any girl can be, she can.""",Non-Limerick
 "An inhabitant of old Missouri
 Finds it more than he ought to endure.
 Hears from ocean to sea
 Not a thing but ""Show me!""
-It 's so true he gets madder than red.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+It 's so true he gets madder than red.",Non-Limerick
 "An old man with little to do
 At home found himself in a stew;
 He was hit with a squash
 And the coming week's wash;
-Though his wants were exceedingly fewer.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+Though his wants were exceedingly fewer.",Non-Limerick
 "Love built a stately house, where Fortune came,
      And spinning fancies, she was heard to say
      That her fine cobwebs did support the frame,
      Whereas they were supported by the same;
-     But Wisdom quickly swept them all away.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+     But Wisdom quickly swept them all away.",Non-Limerick
 "Helen, thy beauty is to me
           Like those Nicean barks of yore,
      That gently, o’er a perfumed sea,
           The weary, way-worn wanderer bore
-          To his own native shore.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+          To his own native shore.",Non-Limerick
 "Then Pleasure came, who, liking not the fashion,
 Began to make balconies, terraces,
 Till she had weakened all by alteration;
 But reverend laws, and many a proclamation
-Reforméd all at length with menaces.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+Reforméd all at length with menaces.",Non-Limerick
 "The ad said, for one little fee,
 You can skip all that course-work ennui.
 So send your tuition,
 For boundless fruition!
-Get your mail-order physics degree!",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Get your mail-order physics degree!",Limerick
 "Your units are wrong! cried the teacher.
 Your church weighs six joules — what a feature!
 And the people inside
 Are four hours wide,
-And eight gauss away from the preacher!",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And eight gauss away from the preacher!",Limerick
 "The lemmings get set for their race.
 With one step and two steps they pace.
 They take three and four,
 And then head on for more, 
-Without checking the limiting case.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Without checking the limiting case.",Limerick
 "To figure the inches you’ve run,
 Or to find the slug mass of the sun,
 Forget your aversion
 To unit conversion.
-Just multiply (wisely!) by 1.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Just multiply (wisely!) by 1.",Limerick
 "The skill to do math on a page
 Has declined to the point of outrage.
 Equations quadratica
 Are solved on Math'matica,
-And on birthdays we don't know our age.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And on birthdays we don't know our age.",Limerick
 "How Fermi could estimate things!
 Like the well-known Olympic ten rings,
 And the one-hundred states,
 And weeks with ten dates,
-And birds that all fly with one... wings.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And birds that all fly with one... wings.",Limerick
 "For things moving free or at rest,
 Observe what the first law does best.
 It defines a key frame,
 Inertial by name,
-Where the second law then is expressed.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+Where the second law then is expressed.",Limerick
 "It may seem, with the angst it can bring,
 That an Atwood's machine's a harsh thing.
 But you just need to say
 That F is ma,
-And use conservation of string!",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And use conservation of string!",Limerick
 "What would you have thought, Galileo,
 If instead you dropped cows and did say, ""Oh!
 To lessen the sound
 Of the moos from the ground,
-They should fall not through air but through mayo!""",Limerick,"5 Lines, AABBA Rhyme Scheme"
+They should fall not through air but through mayo!""",Limerick
 "If a monkey lets go of a tree,
 The arrow will hit him, you see,
 Because both heights are pared
 By a half gt squared
-From what they would be with no g.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+From what they would be with no g.",Limerick
 """To three, five, and seven, assign
 A name,"" the prof said, ""we'll define.""
 But he botched the instruction
 With woeful induction,
-And told us the next prime was nine.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And told us the next prime was nine.",Limerick
 "In Boston, lived Jack, as did Jill,
 Who gained mgh on a hill.
 In their liquid pursuit, 
 Jill exclaimed with a hoot,
-""I think we've just climbed a landfill!""",Limerick,"5 Lines, AABBA Rhyme Scheme"
+""I think we've just climbed a landfill!""",Limerick
 "While noting, ""Oh, this is just grand,""
 Jack tripped on some trash in the sand.
 He changed his potential
 To kinetic, torrential,
-But not before grabbing Jill's hand.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+But not before grabbing Jill's hand.",Limerick
 "Newton said as he gazed off afar,
 ""From here to the most distant star,
 These wond'rous ellipses
 And solar eclipses
-All come from a 1 over r.""",Limerick,"5 Lines, AABBA Rhyme Scheme"
+All come from a 1 over r.""",Limerick
 "Newton looked at the data, numerical,
 And then observations, empirical.
 He said, ""But, of course,
 We get the same force
-From a point mass and something that's spherical!""",Limerick,"5 Lines, AABBA Rhyme Scheme"
+From a point mass and something that's spherical!""",Limerick
 "Roger Clemens was stuck on a lake,
 With no oars, wind, or fuel — big mistake!
 So he thought like a rocket, 
 And emptied his pocket,
-And left all his change in his wake.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And left all his change in his wake.",Limerick
 "A potential may look quite erratic,
 And its study may seem problematic.
 But down near a min,
 You can say with a grin,
-""It behaves like a simple quadratic!""",Limerick,"5 Lines, AABBA Rhyme Scheme"
+""It behaves like a simple quadratic!""",Limerick
 "One morning while eating my Wheaties,
 I felt the earth move 'neath my feeties.
 The cause for alarm
 Was a long lever-arm,
-At the end of which grinned Archimedes.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+At the end of which grinned Archimedes.",Limerick
 "On a merry-go-round in the night,
 Coriolis was shaken with fright.
 Despite how he walked,
 'Twas like he was stalked,
-By some fiend always pushing him right.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+By some fiend always pushing him right.",Limerick
 "To calculate E, my dear class,
 Just add up two things, and you'll pass.
 Take the CM point's E,
 And then add on with glee,
-The E  'round the center of mass.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+The E  'round the center of mass.",Limerick
 "For conditions that number but three,
 We say, ""Torque is dL by dt.""
 But though they're all true,
 I'll stick to just two;
-It's CM's and fixed points for me.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+It's CM's and fixed points for me.",Limerick
 "What L was, he just couldn't tell.
 And p? He was clueless as well.
 But despite his distress,
 He wrote down the right guess
-For their quotient: the lever-arm's l.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+For their quotient: the lever-arm's l.",Limerick
 "When using potentials, effective,
 Remember the one main objective:
 The goal is to shun
 All dimensions but one,
-And then view things with 1-D perspective.",Limerick,"5 Lines, AABBA Rhyme Scheme"
+And then view things with 1-D perspective.",Limerick
 "As he walked past the beautiful belle,
 The attraction was easy to tell.
 But despite his persistence,
 He was kept at a distance
-By that darn conservation of L.",Limerick,"5 Lines, AABBA Rhyme Scheme"
-"""The greatest glory in living lies not in never falling, but in rising every time we fall.""",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
-"""The way to get started is to quit talking and begin doing.""",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
-"""Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.""",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
-"""The future belongs to those who believe in the beauty of their dreams.""",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
-"""If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.""",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
-"""If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success""",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
-"""You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.""",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
-"""You must be the change you wish to see in the world.""",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
-"""Spread love everywhere you go. Let no one ever come to you without leaving happier.""",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
-"""The only thing we have to fear is fear itself.""",Non-Limerick,"Not 5 Lines, Not AABBA Rhyme Scheme"
+By that darn conservation of L.",Limerick
+"""The greatest glory in living lies not in never falling, but in rising every time we fall.""",Non-Limerick
+"""The way to get started is to quit talking and begin doing.""",Non-Limerick
+"""Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.""",Non-Limerick
+"""The future belongs to those who believe in the beauty of their dreams.""",Non-Limerick
+"""If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.""",Non-Limerick
+"""If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success""",Non-Limerick
+"""You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.""",Non-Limerick
+"""You must be the change you wish to see in the world.""",Non-Limerick
+"""Spread love everywhere you go. Let no one ever come to you without leaving happier.""",Non-Limerick
+"""The only thing we have to fear is fear itself.""",Non-Limerick
 "The ad said, for one little fee,
 You can skip all that course-work advice.
 So send your tuition,
 For boundless fruition!
-Get your mail-order physics degree!",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+Get your mail-order physics degree!",Non-Limerick
 "Your units are wrong! cried the guide.
 Your church weighs six joules — what a feature!
 And the people inside
 Are four hours wide,
-And eight gauss away from the preacher!",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+And eight gauss away from the preacher!",Non-Limerick
 "The lemmings get set for their run.
 With one step and two steps they pace.
 They take three and four,
 And then head on for more, 
-Without checking the limiting case.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+Without checking the limiting case.",Non-Limerick
 "To figure the inches you’ve run,
 Or to find the slug mass of the sun,
 Forget your aversion
 To unit conversion.
-Just multiply (wisely!) by two.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+Just multiply (wisely!) by two.",Non-Limerick
 "The skill to do math on a board
 Has declined to the point of outrage.
 Equations quadratica
 Are solved on Math'matica,
-And on birthdays we don't know our age.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+And on birthdays we don't know our age.",Non-Limerick
 "How Fermi could estimate stuff!
 Like the well-known Olympic ten rings,
 And the one-hundred states,
 And weeks with ten dates,
-And birds that all fly with one... wings.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+And birds that all fly with one... wings.",Non-Limerick
 "For things moving free or at rest,
 Observe what the first law does best.
 It defines a key frame,
 Inertial by name,
-Where the second law then is shown.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+Where the second law then is shown.",Non-Limerick
 "It may seem, with the angst it can bring,
 That an Atwood's machine's a harsh thing.
 But you just need to tell
 That F is ma,
-And use conservation of string!",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+And use conservation of string!",Non-Limerick
 "What would you have thought, Galileo,
 If instead you dropped cows and did say, ""Oh!
 To lessen the noise
 Of the moos from the ground,
-They should fall not through air but through mayo!""",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+They should fall not through air but through mayo!""",Non-Limerick
 "If a monkey lets go of a tree,
 The arrow will hit him, you see,
 Because both heights are pared
 By a half gt cubed
-From what they would be with no g.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+From what they would be with no g.",Non-Limerick
 """To three, five, and seven, assign
 A name,"" the prof said, ""we'll define.""
 But he botched the rule
 With woeful induction,
-And told us the next prime was nine.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+And told us the next prime was nine.",Non-Limerick
 "In Boston, lived Jack, as did Jill,
 Who gained mgh on a mountain.
 In their liquid pursuit, 
 Jill exclaimed with a hoot,
-""I think we've just climbed a landfill!""",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+""I think we've just climbed a landfill!""",Non-Limerick
 "While noting, ""Oh, this is just grand,""
 Jack tripped on some trash in the mud.
 He changed his potential
 To kinetic, torrential,
-But not before grabbing Jill's hand.",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+But not before grabbing Jill's hand.",Non-Limerick
 "Newton said as he gazed off afar,
 ""From here to the most distant planet,
 These wond'rous ellipses
 And solar eclipses
-All come from a 1 over r.""",Non-Limerick,"5 Lines, Not AABBA Rhyme Scheme"
+All come from a 1 over r.""",Non-Limerick
